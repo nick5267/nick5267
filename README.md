@@ -7,5 +7,4 @@
 
 <p align="center">👩‍💻 Developer | 🎨 Designer | 🤖 ML Enthusiast</p>
 <br>
-<img align='right' src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="270">
-</em></p>
+
