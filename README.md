@@ -1,7 +1,9 @@
 <h2 align="center">
 ### Hello World, I'm Deepti  👋
 </h2>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 <p align="center">👩‍💻 Developer | 🎨 Designer | 🤖 ML Enthusiast</p>
 <br>
@@ -10,7 +12,7 @@
 
 🔭 I’m currently working on AI/ML, Deep Learning Projects
 
-🌱 I’m currently learning about Deep Learning/AI-ML
+🌱 I’m currently learning about more about the fascinating world of AI/ML
 
 💬 Ask me about ... Anything
 
@@ -82,18 +84,3 @@ Let's connect on different platforms and explore the tech universe together! Fee
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEPTI-BUSENNAGARI)
 
 Let's stay connected, share ideas, and make some tech magic happen! 🚀👩‍💻📚
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Deepti's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DEEPTI-BUSENNAGARI&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Deepti's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPTI-BUSENNAGARI" />
-
-</details>
-
